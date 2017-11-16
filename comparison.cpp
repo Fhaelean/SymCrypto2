@@ -1,4 +1,4 @@
-/*#include "Header.h"
+#include "Header.h"
 
 int module(int module, int modul)
 {
@@ -145,4 +145,4 @@ int main()
 	comparison(&a, &b, &modul);
 	cout << "(mod " << modul << ")" << endl;
 	system("pause");
-}*/
+}
